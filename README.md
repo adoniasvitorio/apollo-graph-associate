@@ -30,3 +30,16 @@ See more in [Apollo Odyssey](https://odyssey.apollographql.com/).
  - [x] Querying live data
  - [x] Errors! When queries go sideways
  - [x] Journey's end
+
+
+ ## Lift-off III: Arguments
+
+- [x] Feature Overview
+- [x] Updating our schema
+- [x] GraphQL arguments
+- [x] Resolver args parameter
+- [x] Resolver chains
+- [x] Query building in Apollo Studio
+- [x] Building the track page
+- [x] The useQuery hook - with variables
+- [x] Navigating to the track page
